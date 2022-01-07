@@ -3,8 +3,9 @@ layout: default
 title: How to apply
 ---
 
-## If you ...
+## When to Apply
 
+If you ...
 
  * are kind, curious, proud, honest and responsible,
  * want to join us on our mission to accelerate access to honest food,
@@ -12,16 +13,34 @@ title: How to apply
 
 then we are looking for you!
 
-* [Apply now]({% link apply_now.md %})
+ * [Apply Now]({% link apply_now.md %})
 
-## Our gaps
+## Application Process
+
+The happy-day scenario looks like this: 
+
+ 1. You apply by sending us your motivation letter and a resume.
+ 1. We get back to you within three business days.
+ 1. We invite you talk to Marijn (CTO) and Gert-Jan (CEO). 
+    This will take you about two hours.
+ 1. We invite you to meet (part of) the development team to get to know each other and work together a bit.
+    This will take you about 4 hours.
+ 1. We make you an offer.
+ 1. You accept.
+
+If along the way things are not working out as you hoped, just reach out to Marijn.
+
+ * [Apply Now]({% link apply_now.md %})
+ * [FAQ]({% link faq.md %})
+ 
+## We could use some help ...
 
 We hire people, not skills or roles.
-It would be helpful if you can help us fill one or more of these gaps.
-But we are mostly interested in you!
-
-As per December 2021, we have identified
-we could use improvement in the following skill areas:
+We are mostly interested in you!
+That being said, we have identified
+gaps in our skill set.
+If you are passionate about any of these areas,
+then we'd love to talk to you: 
 
  * Facilitating communication with the wider organization (developer, team-lead)
  * Testing and quality assurance (developer)
@@ -33,3 +52,7 @@ we could use improvement in the following skill areas:
     * Facilitation of events
     * Addressing tough issues, guiding difficult conversations
     * Triggering thought by asking questions
+
+Interested?
+
+ * [Apply Now]({% link apply_now.md %})
