@@ -20,4 +20,4 @@ If you want to join us on our mission and our core values resonate with you, the
  * [Apply Now](apply_now.md)
  * [How to Apply](apply.md)
  * [Our Recruitment Website](https://recruitment.logiqs.nl/)
- * [FAQ]({faq.md)
+ * [FAQ](faq.md)
