@@ -13,7 +13,7 @@ If you ...
 
 then we are looking for you!
 
- * [Apply Now]({% link apply_now.md %})
+ * [Apply Now](apply_now.md)
 
 ## Application Process
 
@@ -30,8 +30,8 @@ The happy-day scenario looks like this:
 
 If along the way things are not working out as you hoped, just reach out to [Marijn](mailto:marijn@logiqs.nl).
 
- * [Apply Now]({% link apply_now.md %})
- * [FAQ]({% link faq.md %})
+ * [Apply Now](apply_now.md)
+ * [FAQ](faq.md)
  
 ## We could use some help ...
 
@@ -55,4 +55,4 @@ then we'd love to talk to you:
 
 Interested?
 
- * [Apply Now]({% link apply_now.md %})
+ * [Apply Now](apply_now.md)

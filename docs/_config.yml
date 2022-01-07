@@ -1,1 +1,4 @@
 theme: jekyll-theme-midnight
+baseurl: /developers
+plugins:
+  - jekyll-relative-links
