@@ -18,5 +18,5 @@ We are a team of kind people that care about the world, our users and each other
 If you want to join us on our mission and our core values resonate with you, then please get in touch. 
 
  * [get in touch](contact.md)
- * [current job openings](job_opening.md)
+ * [how to apply]({% link apply.md %})
  * [faq](faq.md)
