@@ -17,6 +17,7 @@ We are a team of kind people that care about the world, our users and each other
 
 If you want to join us on our mission and our core values resonate with you, then please get in touch. 
 
- * [get in touch](contact.md)
- * [how to apply]({% link apply.md %})
- * [faq](faq.md)
+ * [Apply Now]({% link apply_now.md %})
+ * [How to Apply]({% link apply.md %})
+ * [Our Recruitment Website](https://recruitment.logiqs.nl/)
+ * [FAQ]({% link apply.md %})

@@ -21,14 +21,14 @@ The happy-day scenario looks like this:
 
  1. You apply by sending us your motivation letter and a resume.
  1. We get back to you within three business days.
- 1. We invite you talk to Marijn (CTO) and Gert-Jan (CEO). 
+ 1. We invite you to talk to Marijn (CTO) and Gert-Jan (CEO). 
     This will take you about two hours.
  1. We invite you to meet (part of) the development team to get to know each other and work together a bit.
     This will take you about 4 hours.
  1. We make you an offer.
  1. You accept.
 
-If along the way things are not working out as you hoped, just reach out to Marijn.
+If along the way things are not working out as you hoped, just reach out to [Marijn](mailto:marijn@logiqs.nl).
 
  * [Apply Now]({% link apply_now.md %})
  * [FAQ]({% link faq.md %})
