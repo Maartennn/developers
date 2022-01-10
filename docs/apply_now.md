@@ -7,9 +7,9 @@ title: Apply Now!
 
 Jump to our recruitment site to apply for one of the follwing positions:
 
- * [Developer](https://recruitment.logiqs.nl/open-application/) -
+ * [Developer](./roles/developer.md) -
     You deploy, test, program, design, analyze and/or support running our software.
- * [Team Coach](https://recruitment.logiqs.nl/open-application/) -
+ * [Team Coach](./roles/team_coach.md) -
     You coach the people in and around our software teams to grow individually and as a team.
 
 Or:
