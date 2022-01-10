@@ -1,1 +1,8 @@
-hoi
+- Mick
+- Sjors
+- Maarten
+- Remco
+- Daria
+- Melvin
+- Rob
+- Chiara
