@@ -36,21 +36,6 @@ connect to and collaborate with the software development teams.
 
 ### What We Offer
 
-<!-- the usual 
-
-Marktconform salaris
-Hoewel we een klein bedrijf zijn, doen we ons best om marktconforme salarissen te bieden aan onze werknemers.
-
-Goed pensioenplan
-We hebben een goede pensioenregeling met een hoge werkgeversbijdrage.
-
-Gepersonaliseerd opleidingsbudget
-We willen graag dat elk teamlid de beste versie van zichzelf wordt. Dus voegen we de daad bij het woord!
-
-Zoveel vakantiedagen als je nodig hebt
-Je krijgt 25 betaalde vakantiedagen, maar je hebt altijd de mogelijkheid om wat meer vakantiedagen te kopen als je wat langer op reis wil.
--->
-
  * We are a great place to work; and strive to become even better.
  * All the space you need to grow as a person and professional coach.
  * A competitive salary.
